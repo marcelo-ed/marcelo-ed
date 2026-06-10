@@ -1,23 +1,41 @@
 # 👋 Olá! Eu sou o Marcelo
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no UniCEUB — atualmente no primeiro semestre e empolgado para explorar o mundo da tecnologia!
+🎓 Estudante de **Ciência da Computação** no CEUB, atualmente construindo minha base em desenvolvimento de software, algoritmos e tecnologia.
 
-🚀 Interesses:
+💻 Tenho interesse em desenvolvimento web, engenharia de software e soluções que utilizem tecnologia para resolver problemas reais.
 
-* Desenvolvimento web com **HTML, CSS, JavaScript** e um pouco de **React**
-* Plataformas **low-code/no-code** como **WordPress, Webflow e RD Station**
+🚀 Atualmente estou aprimorando meus conhecimentos através de:
 
-🧠 Atualmente estou trabalhando em:
-
-* Um projeto de Iniciação Científica envolvendo IA e educação
-* Aprofundar minha base em lógica de programação e estruturas de dados
-
-🔗 Conecte-se comigo:
-
-* [LinkedIn](https://www.linkedin.com/in/marcelo-eduardo-160928364/)
-* Email: [marceledu2@gmail.com](mailto:marceledu2@gmail.com)
+- ☕ **Java** — Programação Orientada a Objetos, lógica e desenvolvimento de aplicações
+- 🗄️ **SQL** — Modelagem, consultas e manipulação de bancos de dados
 
 ---
 
-✨ Em breve mais repositórios e projetos por aqui. Obrigado por visitar meu perfil!
+## 🛠️ Tecnologias e ferramentas
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- Estruturas de dados e algoritmos
+- Boas práticas de programação
+- Banco de dados relacionais
+- Desenvolvimento de aplicações com Java
+
+---
+
+## 🔗 Conecte-se comigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-eduardo-160928364/)
+- 📧 [Email](mailto:marceledu2@gmail.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+Estou sempre aprendendo, construindo projetos e evoluindo na área de tecnologia.
